@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/tZjnfKN.png">
+
 <h1 align="center">Hi 👋, I'm Joan Sebastian RUiz Angarita</h1>
 <h3 align="center">A passionate full stack developer from Colombia 🇨🇴</h3>
 
