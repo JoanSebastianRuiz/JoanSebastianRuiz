@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/tZjnfKN.png">
+![sGGxIxy - Imgur](https://github.com/user-attachments/assets/4b4fbb40-9be9-47b2-b42c-8fa041c685a4)
 
 <h1 align="center">Hi 👋, I'm Joan Sebastian RUiz Angarita</h1>
 <h3 align="center">A passionate full stack developer from Colombia 🇨🇴</h3>
