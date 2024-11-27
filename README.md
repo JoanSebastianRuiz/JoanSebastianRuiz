@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joansebastianruiz&show_icons=true&locale=en" alt="joansebastianruiz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joansebastianruiz&" alt="joansebastianruiz" /></p>
+
