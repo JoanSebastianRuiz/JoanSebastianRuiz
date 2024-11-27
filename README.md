@@ -1,6 +1,6 @@
 ![sGGxIxy - Imgur](https://github.com/user-attachments/assets/4b4fbb40-9be9-47b2-b42c-8fa041c685a4)
 
-<h1 align="center">Hi 👋, I'm Joan Sebastian RUiz Angarita</h1>
+<h1 align="center">Hi 👋, I'm Joan Sebastian Ruiz Angarita</h1>
 <h3 align="center">A passionate full stack developer from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joansebastianruiz&label=Profile%20views&color=0e75b6&style=flat" alt="joansebastianruiz" /> </p>
